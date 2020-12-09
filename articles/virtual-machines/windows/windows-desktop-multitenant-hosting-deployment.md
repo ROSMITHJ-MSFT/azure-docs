@@ -29,7 +29,7 @@ For PowerShell, CLI and Azure Resource Manager template deployments, the Windows
 | Windows 10 Pro N  | MicrosoftWindowsDesktop | Windows-10  | RS3-ProN  |
 
 ## Qualify for Multi-tenant hosting rights 
-To qualify for multi-tenant hosting rights and to run Windows 10 images on Azure users must have one of the following subscriptions: 
+To qualify for multi-tenant hosting rights and to run Windows 10 images on Azure, users must have one of the following subscriptions: 
 
 -	Microsoft 365 E3/E5 
 -	Microsoft 365 F3 
