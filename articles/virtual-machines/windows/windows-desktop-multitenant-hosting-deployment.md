@@ -40,7 +40,7 @@ To qualify for multi-tenant hosting rights and to run Windows 10 images on Azure
 
 
 ## Uploading Windows 10 VHD to Azure
-if you are uploading a generalized Windows 10 VHD, please note Windows 10 does not have built-in administrator account enabled by default. To enable the built-in administrator account, include the following command as part of the Custom Script extension.
+If you are uploading a generalized Windows 10 VHD, please note Windows 10 does not have built-in administrator account enabled by default. To enable the built-in administrator account, include the following command as part of the Custom Script extension.
 
 ```powershell
 Net user <username> /active:yes
